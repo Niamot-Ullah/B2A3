@@ -43,6 +43,8 @@ The ERD was created using the **drawSQL** tool and includes:
 - Relationship cardinality
 - Status fields
 
+- **ERD Diagram (drawSQL):** https://drawsql.app/teams/car-booking/diagrams/car-booking
+
 ---
 
 ## SQL Queries (`queries.sql`)
@@ -63,15 +65,16 @@ Each query directly solves a specific requirement of the assignment.
    - Finds vehicles that have more than two bookings
 
 Each query is written using proper SQL standards and comments for clarity.
+- **queries.sql File:** https://github.com/Niamot-Ullah/B2A3/blob/main/queries.sql
 
 ---
 
 ## Submission Links
 > Update the links below before final submission.
 
-- **ERD Diagram (drawSQL):** [https://your-erd-link-here](https://drawsql.app/teams/car-booking/diagrams/car-booking)
-- **GitHub Repository:** https://github.com/Niamot-Ullah/B2A3
-- **queries.sql File:** https://your-queries-file-link-here
+- **ERD Diagram (drawSQL):** https://drawsql.app/teams/car-booking/diagrams/car-booking
+- **GitHub Repository:**  https://github.com/Niamot-Ullah/B2A3
+- **queries.sql File:** https://github.com/Niamot-Ullah/B2A3/blob/main/queries.sql
 
 ---
 
@@ -81,6 +84,3 @@ Each query is written using proper SQL standards and comments for clarity.
 
 ---
 
-## Conclusion
-This project fulfills all assignment requirements by combining proper database design with correctly implemented SQL queries.  
-The documentation and queries demonstrate a clear understanding of relational databases and SQL concepts.
